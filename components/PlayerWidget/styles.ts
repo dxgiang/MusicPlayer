@@ -1,15 +1,20 @@
-import { StyleSheet } from "react-native";
+import { StyleSheet} from "react-native";
 
 const styles = StyleSheet.create({
   container: {
-    position: "absolute",
+    position: 'absolute',
     bottom: 49,
-    backgroundColor: "#131313",
-    flexDirection: "row",
-    width: "100%",
+    backgroundColor: '#131313',
+    width: '100%',
     borderWidth: 2,
-    borderColor: "black",
-    alignItems: 'center',
+    borderColor: 'black',
+  },
+  progress: {
+    height: 3,
+    backgroundColor: '#bcbcbc'
+  },
+  row: {
+    flexDirection: 'row',
   },
   image: {
     width: 75,
@@ -17,8 +22,9 @@ const styles = StyleSheet.create({
     marginRight: 10,
   },
   rightContainer: {
-    justifyContent: 'space-around',
-    marginLeft: 15,
+    flex: 1,
+    flexDirection: 'row',
+    justifyContent: 'space-between'
   },
   nameContainer: {
     flexDirection: 'row',
@@ -31,13 +37,15 @@ const styles = StyleSheet.create({
     justifyContent: 'space-around'
   },
   title: {
-    color: "white",
+    color: 'white',
     fontSize: 18,
+    fontWeight: 'bold',
+    margin: 10,
   },
   artist: {
-    color: "lightgray",
+    color: 'lightgray',
     fontSize: 18,
-  },
+  }
 })
 
 export default styles;
