@@ -13,9 +13,9 @@ export default function HomeScreen() {
           <AlbumCategory 
             title={item.title}
             albums={item.albums}
-            keyExtractor={(item) => item.id}
           />
         )}
+        keyExtractor={(item) => item.id}
       />
     </View>
   );
