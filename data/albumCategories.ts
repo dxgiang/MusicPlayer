@@ -67,11 +67,11 @@ export default [{
       {
         id: '11',
         imageUri: 'https://photo-cms-nghenhinvietnam.zadn.vn/w1024/Uploaded/2021/unvjohp/2018_05_08/mtp/3017121813395120728165863161930184474875687o_15250322704071102706586_15251160289821556458009_damf.jpg',
-        artistsHeadline: 'Sơn Tùng M-TP'
+        artistsHeadline: 'Son Tung M-TP'
       }, {
         id: '12',
         imageUri: 'https://s1.dmcdn.net/v/MkQJw1Q9311uErtkz/x1080',
-        artistsHeadline: 'Sơn Tùng M-TP'
+        artistsHeadline: 'Son Tung M-TP'
       },
       {
         id: '13',

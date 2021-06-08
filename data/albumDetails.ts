@@ -4,7 +4,7 @@ export default {
     by: 'Spotify',
     numberOfLikes: 38,
     imageUri: 'https://upload.wikimedia.org/wikipedia/vi/c/c0/Buongdoitaynhauramtp.jpg',
-    artistsHeadline: 'Sơn Tùng M-TP',
+    artistsHeadline: 'Son Tung M-TP',
     songs: [{
       id: '1',
       imageUri: 'https://i1.sndcdn.com/artworks-T5KqOdidfrbpyddU-sGIJsA-t500x500.jpg',
@@ -24,7 +24,7 @@ export default {
       id: '4',
       imageUri: 'https://i.pinimg.com/originals/e6/1f/cf/e61fcf802803773c3dc3b6c42946b7a0.jpg',
       title: 'Home',
-      artist: 'Siamés',
+      artist: 'Siames',
     }]
   }
   

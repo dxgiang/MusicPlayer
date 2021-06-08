@@ -9,12 +9,20 @@
             "authenticationType": "API_KEY",
             "apiKeyConfig": {
               "apiKeyExpirationDays": 365,
-              "description": "musicplayer project"
+              "description": "my api key"
             }
           },
           "additionalAuthenticationProviders": []
         }
       }
+    }
+  },
+  "auth": {
+    "musicplayer4a70fe46": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
     }
   }
 }

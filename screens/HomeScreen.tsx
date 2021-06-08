@@ -4,6 +4,9 @@ import { StyleSheet, FlatList, View } from 'react-native';
 import AlbumCategory from '../components/AlbumCategory';
 import albumCategories from '../data/albumCategories';
 
+import { API, graphqlOperation } from 'aws-amplify';
+import { listAlbumCategorys } from '../src/graphql/schema.json';
+
 export default function HomeScreen() {
   return (
     <View style={styles.container}>
