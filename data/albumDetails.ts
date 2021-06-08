@@ -3,28 +3,28 @@ export default {
     name: 'Good vibes',
     by: 'Spotify',
     numberOfLikes: 38,
-    imageUri: 'https://cache.boston.com/resize/bonzai-fba/Globe_Photo/2011/04/14/1302796985_4480/539w.jpg',
-    artistsHeadline: 'Taylor Swift, Kygo Objective C, Avicii',
+    imageUri: 'https://i.ytimg.com/vi/fHI8X4OXluQ/maxresdefault.jpg',
+    artistsHeadline: 'The Weeknd',
     songs: [{
       id: '1',
-      imageUri: 'https://cache.boston.com/resize/bonzai-fba/Globe_Photo/2011/04/14/1302796985_4480/539w.jpg',
-      title: 'High on You',
-      artist: 'Helen',
+      imageUri: 'https://i1.sndcdn.com/artworks-T5KqOdidfrbpyddU-sGIJsA-t500x500.jpg',
+      title: 'Blinding Lights',
+      artist: 'The Weeknd',
     },{
       id: '2',
-      imageUri: 'https://cdn6.f-cdn.com/contestentries/1485199/27006121/5ca3e39ced7f1_thumb900.jpg',
-      title: 'Lorem Ipsum',
-      artist: 'Artist 2',
+      imageUri: 'https://www.wethechic.com/wp-content/uploads/2018/12/Linkin-Park-Numb-plain-artwork-india-White.jpg',
+      title: 'Numb',
+      artist: 'Linkin Park',
     },{
       id: '3',
-      imageUri: 'https://images-na.ssl-images-amazon.com/images/I/61F66QURFyL.jpg',
-      title: 'Hello from the other side',
-      artist: 'Helen',
+      imageUri: 'https://images.discovery-prod.axs.com/2021/02/the-weeknd-tickets_03-18-22_17_601b00109b8c7.jpg',
+      title: 'After Hours',
+      artist: 'The Weeknd',
     },{
       id: '4',
-      imageUri: 'https://cache.boston.com/resize/bonzai-fba/Globe_Photo/2011/04/14/1302796985_4480/539w.jpg',
-      title: 'High on You',
-      artist: 'Helen',
+      imageUri: 'https://i.pinimg.com/originals/e6/1f/cf/e61fcf802803773c3dc3b6c42946b7a0.jpg',
+      title: 'Home',
+      artist: 'Siamés',
     }]
   }
   

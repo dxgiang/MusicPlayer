@@ -1,4 +1,3 @@
-//the keyName that defines the album model and the fields will connect to the local ID
 type AlbumCategory @model {
   id: ID!
   title: String!

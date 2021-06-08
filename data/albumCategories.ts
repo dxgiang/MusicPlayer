@@ -4,22 +4,22 @@ export default [{
     albums: [
       {
         id: '1',
-        imageUri: 'https://cache.boston.com/resize/bonzai-fba/Globe_Photo/2011/04/14/1302796985_4480/539w.jpg',
-        artistsHeadline: 'Taylor Swift, Kygo Objective C, Avicii'
+        imageUri: 'https://i.pinimg.com/originals/c5/c2/e6/c5c2e693ca69f1710016a9842eebd0b6.jpg',
+        artistsHeadline: 'The Score'
       }, {
         id: '2',
-        imageUri: 'https://cdn6.f-cdn.com/contestentries/1485199/27006121/5ca3e39ced7f1_thumb900.jpg',
-        artistsHeadline: 'Post Malone, Drake, Eminem'
+        imageUri: 'https://cdns-images.dzcdn.net/images/cover/1c414ba2c30b6b01157c415ffff4bf19/500x500.jpg',
+        artistsHeadline: 'Andy James & Angel Vivaldi'
       },
       {
         id: '3',
-        imageUri: 'https://images-na.ssl-images-amazon.com/images/I/61F66QURFyL.jpg',
-        artistsHeadline: 'Journey, Escape, Avicii'
+        imageUri: 'https://images-na.ssl-images-amazon.com/images/I/71D6LgA22aL._SL1425_.jpg',
+        artistsHeadline: 'Skillet'
       },
       {
         id: '4',
-        imageUri: 'https://i.pinimg.com/originals/a2/0d/37/a20d37791f8ad5cd54734cd3af559cc9.jpg',
-        artistsHeadline: 'Bob Marley, Cardi B, Stas Mihailov'
+        imageUri: 'https://kenh14cdn.com/thumb_w/660/2019/6/7/jbp5pp4ombx21-1559895461661193146972.png',
+        artistsHeadline: 'Avicii'
       },
     ]
   }, {
@@ -28,17 +28,17 @@ export default [{
     albums: [
       {
         id: '5',
-        imageUri: 'https://cache.boston.com/resize/bonzai-fba/Globe_Photo/2011/04/14/1302796985_4480/539w.jpg',
-        artistsHeadline: 'Taylor Swift, Kygo Objective C, Avicii'
+        imageUri: 'https://i.ytimg.com/vi/tt2k8PGm-TI/maxresdefault.jpg',
+        artistsHeadline: 'ZAYN'
       }, {
         id: '6',
-        imageUri: 'https://cdn6.f-cdn.com/contestentries/1485199/27006121/5ca3e39ced7f1_thumb900.jpg',
-        artistsHeadline: 'Post Malone, Drake, Eminem'
+        imageUri: 'https://cdn.hipwallpaper.com/i/15/54/ASsFcC.jpg',
+        artistsHeadline: 'Thousand Foot Krutch'
       },
       {
         id: '7',
-        imageUri: 'https://images-na.ssl-images-amazon.com/images/I/61F66QURFyL.jpg',
-        artistsHeadline: 'Journey, Escape, Avicii'
+        imageUri: 'https://s22.postimg.cc/a8tg3by5t/darksignal.jpg',
+        artistsHeadline: 'Dark Signal'
       },
     ]
   },{
@@ -47,17 +47,17 @@ export default [{
     albums: [
       {
         id: '8',
-        imageUri: 'https://cache.boston.com/resize/bonzai-fba/Globe_Photo/2011/04/14/1302796985_4480/539w.jpg',
-        artistsHeadline: 'Taylor Swift, Kygo Objective C, Avicii'
+        imageUri: 'https://images.squarespace-cdn.com/content/v1/52730333e4b042bb9205a3b0/1486676443433-BP3IKTSNGZCMJP72WOI5/ke17ZwdGBToddI8pDm48kJCRFr53BWUWxF6Z0HFsSTlZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIdNH6W6agkUlYsBPoJ_XUraGKxtctDPJ7dKpxkuq_gucKMshLAGzx4R3EDFOm1kBS/image-asset.jpeg?format=1000w',
+        artistsHeadline: 'Skillet'
       }, {
         id: '9',
-        imageUri: 'https://cdn6.f-cdn.com/contestentries/1485199/27006121/5ca3e39ced7f1_thumb900.jpg',
-        artistsHeadline: 'Post Malone, Drake, Eminem'
+        imageUri: 'https://i1.sndcdn.com/artworks-000483363744-lclxvb-t500x500.jpg',
+        artistsHeadline: 'Linkin Park'
       },
       {
         id: '10',
-        imageUri: 'https://images-na.ssl-images-amazon.com/images/I/61F66QURFyL.jpg',
-        artistsHeadline: 'Journey, Escape, Avicii'
+        imageUri: 'https://m.media-amazon.com/images/I/61zdh9r720L._SS500_.jpg',
+        artistsHeadline: 'Starset'
       },
     ]
   }, {
@@ -66,17 +66,17 @@ export default [{
     albums: [
       {
         id: '11',
-        imageUri: 'https://cache.boston.com/resize/bonzai-fba/Globe_Photo/2011/04/14/1302796985_4480/539w.jpg',
-        artistsHeadline: 'Taylor Swift, Kygo Objective C, Avicii'
+        imageUri: 'https://photo-cms-nghenhinvietnam.zadn.vn/w1024/Uploaded/2021/unvjohp/2018_05_08/mtp/3017121813395120728165863161930184474875687o_15250322704071102706586_15251160289821556458009_damf.jpg',
+        artistsHeadline: 'Sơn Tùng M-TP'
       }, {
         id: '12',
-        imageUri: 'https://cdn6.f-cdn.com/contestentries/1485199/27006121/5ca3e39ced7f1_thumb900.jpg',
-        artistsHeadline: 'Post Malone, Drake, Eminem'
+        imageUri: 'https://s1.dmcdn.net/v/MkQJw1Q9311uErtkz/x1080',
+        artistsHeadline: 'Sơn Tùng M-TP'
       },
       {
         id: '13',
-        imageUri: 'https://images-na.ssl-images-amazon.com/images/I/61F66QURFyL.jpg',
-        artistsHeadline: 'Journey, Escape, Avicii'
+        imageUri: 'https://upload.wikimedia.org/wikipedia/vi/c/c0/Buongdoitaynhauramtp.jpg',
+        artistsHeadline: 'Sơn Tùng M-TP'
       },
     ]
   },

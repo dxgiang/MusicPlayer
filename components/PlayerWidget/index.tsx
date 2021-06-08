@@ -7,10 +7,10 @@ import { Audio } from 'expo-av';
 import { Sound } from "expo-av/build/Audio";
 const song = {
     id: '1',
-    uri: 'https://not-just-trash.s3-eu-west-1.amazonaws.com/WhatsApp+Audio+2020-09-22+at+14.20.25.mp4',
-    imageUri: 'https://cache.boston.com/resize/bonzai-fba/Globe_Photo/2011/04/14/1302796985_4480/539w.jpg',
-    title: 'High on You',
-    artist: 'Helen',
+    uri: 'https://the-weeknd-albums.s3.amazonaws.com/The+Weeknd+-+Blinding+Lights.mp3am',
+    imageUri: 'https://www.spectrumcentercharlotte.com/assets/img/GV_NATL_0121_TheWeeknd_AfterHours_SpectrumCenter_1080x1080-526e5d3be5.jpg',
+    title: 'Blindling Lights',
+    artist: 'The Weeknd',
 }
 
 const PlayerWidget = () => {
