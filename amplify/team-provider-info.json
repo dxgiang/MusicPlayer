@@ -1,15 +1,15 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-musicplayer-dev-42818-authRole",
-      "UnauthRoleArn": "arn:aws:iam::616891678634:role/amplify-musicplayer-dev-42818-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::616891678634:role/amplify-musicplayer-dev-42818-authRole",
+      "AuthRoleName": "amplify-musicplayer-dev-235629-authRole",
+      "UnauthRoleArn": "arn:aws:iam::616891678634:role/amplify-musicplayer-dev-235629-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::616891678634:role/amplify-musicplayer-dev-235629-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-musicplayer-dev-42818-deployment",
-      "UnauthRoleName": "amplify-musicplayer-dev-42818-unauthRole",
-      "StackName": "amplify-musicplayer-dev-42818",
-      "StackId": "arn:aws:cloudformation:us-east-1:616891678634:stack/amplify-musicplayer-dev-42818/4ac25d40-c7d7-11eb-92cb-0e3259ee6b3b",
-      "AmplifyAppId": "d28hxcyl6b1pu3"
+      "DeploymentBucketName": "amplify-musicplayer-dev-235629-deployment",
+      "UnauthRoleName": "amplify-musicplayer-dev-235629-unauthRole",
+      "StackName": "amplify-musicplayer-dev-235629",
+      "StackId": "arn:aws:cloudformation:us-east-1:616891678634:stack/amplify-musicplayer-dev-235629/7ca8ba90-c87a-11eb-9020-12fc0b61e9db",
+      "AmplifyAppId": "d2xlgksythp5ac"
     }
   }
 }

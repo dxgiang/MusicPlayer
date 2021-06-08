@@ -7,10 +7,10 @@ import { Audio } from 'expo-av';
 import { Sound } from "expo-av/build/Audio";
 const song = {
     id: '1',
-    uri: 'https://the-weeknd-albums.s3.amazonaws.com/The+Weeknd+-+Blinding+Lights.mp3am',
-    imageUri: 'https://www.spectrumcentercharlotte.com/assets/img/GV_NATL_0121_TheWeeknd_AfterHours_SpectrumCenter_1080x1080-526e5d3be5.jpg',
-    title: 'Blindling Lights',
-    artist: 'The Weeknd',
+    uri: 'https://dark-signal.s3.amazonaws.com/Dark+Signal+-+Impatient+%5BHD%5D.mp3',
+    imageUri: 'https://scontent.fdad3-3.fna.fbcdn.net/v/t1.6435-9/45566986_2340610802620348_1710873499075084288_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=9267fe&_nc_ohc=DJAfGWIE-asAX_2p8s4&_nc_ht=scontent.fdad3-3.fna&oh=3512c798a83894fb489c88b9a7c8f89c&oe=60E53E9E',
+    title: 'Impatents',
+    artist: 'Dark Signal',
 }
 
 const PlayerWidget = () => {

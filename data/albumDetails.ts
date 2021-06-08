@@ -3,8 +3,8 @@ export default {
     name: 'Good vibes',
     by: 'Spotify',
     numberOfLikes: 38,
-    imageUri: 'https://i.ytimg.com/vi/fHI8X4OXluQ/maxresdefault.jpg',
-    artistsHeadline: 'The Weeknd',
+    imageUri: 'https://upload.wikimedia.org/wikipedia/vi/c/c0/Buongdoitaynhauramtp.jpg',
+    artistsHeadline: 'Sơn Tùng M-TP',
     songs: [{
       id: '1',
       imageUri: 'https://i1.sndcdn.com/artworks-T5KqOdidfrbpyddU-sGIJsA-t500x500.jpg',

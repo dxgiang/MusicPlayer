@@ -75,8 +75,8 @@ export default [{
       },
       {
         id: '13',
-        imageUri: 'https://upload.wikimedia.org/wikipedia/vi/c/c0/Buongdoitaynhauramtp.jpg',
-        artistsHeadline: 'Sơn Tùng M-TP'
+        imageUri: 'https://i.ytimg.com/vi/fHI8X4OXluQ/maxresdefault.jpg',
+        artistsHeadline: 'The Weeknd'
       },
     ]
   },
